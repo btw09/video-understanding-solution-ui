@@ -21,6 +21,9 @@
     "postcss": "^8.4.33",
     "react-datepicker": "^6.1.0"
   },
+  "devDependencies": {
+    "typescript": "4.9.5"
+  },
   "overrides": {
     "@svgr/webpack": "$@svgr/webpack",
     "postcss": "$postcss"
